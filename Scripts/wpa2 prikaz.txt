@@ -1,0 +1,2 @@
+airodump-ng -c [chanel] -w [meno] --bssid [bssid] --ivs [karta]
+airreplay-ng -0 1 -e [essid] [wifi]
